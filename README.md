@@ -14,15 +14,16 @@ Este projeto utiliza o **n8n** para automação de processos. Como o workflow es
 * **Automação:** [n8n](https://n8n.io/) (Executado localmente).
 * **IA:** Geração de assets visuais (vídeo de fundo) via Gemini.
 
-## 📸 Demonstração do Projeto
+## 🎥 Demonstração do Projeto
 
-Aqui você pode ver o projeto funcionando e a integração com o n8n:
+[![Demonstração do Projeto](https://img.youtube.com/vi/-9Y48u1J-o4/hqdefault.jpg)](https://youtu.be/-9Y48u1J-o4)
 
-<b>Projeto em Ação</b>
-<video src="assets/fundo-magico-funcionando.mp4" width="100%" controls muted></video>
+---
 
-<b>Fluxo n8n</b>
-<video src="assets/n8n-fundo-magico.mp4" width="100%" controls muted></video>
+## 🔄 Fluxo n8n
+
+[![Fluxo n8n](https://img.youtube.com/vi/eu2cb8o3gRo/hqdefault.jpg)](https://youtu.be/eu2cb8o3gRo)
+
 
 ## 🛠️ Como Funciona
 O projeto consome uma API gerada pelo n8n para processar e exibir informações dinâmicas na tela.
