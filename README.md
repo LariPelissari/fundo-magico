@@ -18,21 +18,10 @@ Este projeto utiliza o **n8n** para automação de processos. Como o workflow es
 
 Aqui você pode ver o projeto funcionando e a integração com o n8n:
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Projeto em Ação</b></td>
-    <td align="center"><b>Fluxo n8n</b></td>
-  </tr>
-  <tr>
-    <td>
-      <video src="./assets/fundo-magico-funcionando.mp4" width="100%" controls muted></video>
-    </td>
-    <td>
-      <video src="assets/n8n-fundo-magico.mp4" width="100%" controls muted></video>
-    </td>
-  </tr>
-</table>
-
+<b>Projeto em Ação</b>
+<video src="./assets/fundo-magico-funcionando.mp4" width="100%" controls muted></video>
+<b>Fluxo n8n</b><
+<video src="assets/n8n-fundo-magico.mp4" width="100%" controls muted></video>
 
 ## 🛠️ Como Funciona
 O projeto consome uma API gerada pelo n8n para processar e exibir informações dinâmicas na tela.
