@@ -19,8 +19,9 @@ Este projeto utiliza o **n8n** para automação de processos. Como o workflow es
 Aqui você pode ver o projeto funcionando e a integração com o n8n:
 
 <b>Projeto em Ação</b>
-<video src="./assets/fundo-magico-funcionando.mp4" width="100%" controls muted></video>
-<b>Fluxo n8n</b><
+<video src="assets/fundo-magico-funcionando.mp4" width="100%" controls muted></video>
+
+<b>Fluxo n8n</b>
 <video src="assets/n8n-fundo-magico.mp4" width="100%" controls muted></video>
 
 ## 🛠️ Como Funciona
