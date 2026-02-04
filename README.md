@@ -25,10 +25,10 @@ Aqui você pode ver o projeto funcionando e a integração com o n8n:
   </tr>
   <tr>
     <td>
-      <video src="./assets/fundo-magico-funcionando.mp4" width="400" controls autoplay loop muted></video>
+      <video src="./assets/fundo-magico-funcionando.mp4" width="100%" controls muted></video>
     </td>
     <td>
-      <video src="./assets/n8n-fundo-magico.mp4" width="400" controls autoplay loop muted></video>
+      <video src="assets/n8n-fundo-magico.mp4" width="100%" controls muted></video>
     </td>
   </tr>
 </table>
