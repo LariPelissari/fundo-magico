@@ -16,9 +16,9 @@ Este projeto utiliza o **n8n** para automação de processos. Como o workflow es
 
 <h2>🎥 Demonstração do Projeto</h2>
 
-<a href="https://youtu.be/-9Y48u1J-o4" target="_blank" rel="noopener noreferrer">
+<a href="https://youtu.be/eu2cb8o3gRo" target="_blank" rel="noopener noreferrer">
   <img 
-    src="https://img.youtube.com/vi/-9Y48u1J-o4/hqdefault.jpg" 
+    src="https://img.youtube.com/vi/eu2cb8o3gRo/hqdefault.jpg" 
     alt="Demonstração do Projeto" 
     width="600"
   />
@@ -30,9 +30,9 @@ Este projeto utiliza o **n8n** para automação de processos. Como o workflow es
 
 <h2>🔄 Fluxo n8n</h2>
 
-<a href="https://youtu.be/eu2cb8o3gRo" target="_blank" rel="noopener noreferrer">
+<a href="https://youtu.be/-9Y48u1J-o4" target="_blank" rel="noopener noreferrer">
   <img 
-    src="https://img.youtube.com/vi/eu2cb8o3gRo/hqdefault.jpg" 
+    src="https://img.youtube.com/vi/-9Y48u1J-o4/hqdefault.jpg" 
     alt="Fluxo n8n" 
     width="600"
   />
